@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/caracal.jpg">
+    <img src="./images/caracal.jpg" style="width: 350px;">
   <h1 style="border-bottom: none; margin-bottom: 5px;">Gilberto Bispo</h1>
   <p style="font-size: 1.2em; color: #9E9E9E; margin-top: 0;">Estudante e entusiasta de Desenvolvimento Web</p>
   
@@ -28,14 +28,14 @@
 <h2>💻 Tecnologias que estou utilizando</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="./images/javascript-original.svg">
-  <img src="./images/nodejs-original.svg">
-  <img src="./images/express-original.svg">
-  <img src="./images/postgresql-original.svg">
-  <img src="./images/html5-original.svg">
-  <img src="./images/css3-original.svg">
-  <img src="./images/react-original.svg">
-  <img src="./images/tailwindcss-original.svg">
+  <img src="./images/javascript-original.svg" style="width: 30px;">
+  <img src="./images/nodejs-original.svg" style="width: 30px;">
+  <img src="./images/express-original.svg" style="width: 30px;">
+  <img src="./images/postgresql-original.svg" style="width: 30px;">
+  <img src="./images/html5-original.svg" style="width: 30px;">
+  <img src="./images/css3-original.svg" style="width: 30px;">
+  <img src="./images/react-original.svg" style="width: 30px;">
+  <img src="./images/tailwindcss-original.svg" style="width: 30px;">
 </div>
 
 <br />
