@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/caracal.jpg" style="width: 400px;">
+    <img src="./images/caracal.jpg" style="width: 450px;">
   <h1 style="border-bottom: none; margin-bottom: 5px;">Gilberto Bispo</h1>
   <p style="font-size: 1.2em; color: #9E9E9E; margin-top: 0;">Estudante e entusiasta de Desenvolvimento Web</p>
   
@@ -88,8 +88,8 @@
 
 <div align="center">
   <p>Vamos nos conectar?</p>
-  <a href="https://www.linkedin.com/in/gilberto-bispo-011693249/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15px;"/>
+  <a href="https://www.linkedin.com/in/gilberto-bispo-011693249/" target="_blank" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gilbertobsp13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
