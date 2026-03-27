@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/caracal.jpg" style="width: 350px;">
+    <img src="./images/caracal.jpg" style="width: 400px;">
   <h1 style="border-bottom: none; margin-bottom: 5px;">Gilberto Bispo</h1>
   <p style="font-size: 1.2em; color: #9E9E9E; margin-top: 0;">Estudante e entusiasta de Desenvolvimento Web</p>
   
@@ -20,7 +20,7 @@
 </p>
 
 <p style="font-weight: 500;">
-  Hoje, estudo programação com foco em desenvolvimento **full stack**, sempre orientado à criação de projetos práticos, porque não existe forma melhor de realmente aprender além de colocar a mão na massa. 🛠️
+  Hoje, estudo programação com foco em desenvolvimento full stack, sempre orientado à criação de projetos práticos, porque não existe forma melhor de realmente aprender além de colocar a mão na massa.
 </p>
 
 <br />
@@ -54,12 +54,12 @@
   <h4 style="margin-left: 15px;">🚀 Funcionalidades</h4>
   <ul style="margin-left: 35px;">
     <li>Criar, editar, visualizar e deletar tarefas (CRUD completo)</li>
-    <li>Persistência de informações com banco de dados em **PostgreSQL**</li>
+    <li>Persistência de informações com banco de dados em PostgreSQL</li>
     <li>Interface com interações dinâmicas (como menus expansíveis e animações)</li>
     <li>Responsividade (para usar no PC e no celular)</li>
   </ul>
 
-  <h4 style="margin-left: 15px; color: #9E9E9E;">🔮 Futuras features</h4>
+  <h4 style="margin-left: 15px; color: #9E9E9E;">💡 Futuras features</h4>
   <ul style="margin-left: 35px; color: #9E9E9E;">
     <li>Filtro para tarefas concluídas e não concluídas (em progresso)</li>
     <li>Sistema de registro e login de usuários completo e seguro</li>
@@ -88,10 +88,10 @@
 
 <div align="center">
   <p>Vamos nos conectar?</p>
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/gilberto-bispo-011693249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15px;"/>
   </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:gilbertobsp13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
