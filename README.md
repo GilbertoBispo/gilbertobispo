@@ -28,14 +28,14 @@
 <h2>💻 Tecnologias que estou utilizando</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="./images/javascript-original.svg" style="width: 30px;">
-  <img src="./images/nodejs-original.svg" style="width: 30px;">
-  <img src="./images/express-original.svg" style="width: 30px;">
-  <img src="./images/postgresql-original.svg" style="width: 30px;">
-  <img src="./images/html5-original.svg" style="width: 30px;">
-  <img src="./images/css3-original.svg" style="width: 30px;">
-  <img src="./images/react-original.svg" style="width: 30px;">
-  <img src="./images/tailwindcss-original.svg" style="width: 30px;">
+  <img src="./images/javascript-original.svg" style="width: 50px;">
+  <img src="./images/nodejs-original.svg" style="width: 50px;">
+  <img src="./images/express-original.svg" style="width: 50px;">
+  <img src="./images/postgresql-original.svg" style="width: 50px;">
+  <img src="./images/html5-original.svg" style="width: 50px;">
+  <img src="./images/css3-original.svg" style="width: 50px;">
+  <img src="./images/react-original.svg" style="width: 50px;">
+  <img src="./images/tailwindcss-original.svg" style="width: 50px;">
 </div>
 
 <br />
