@@ -1,84 +1,53 @@
 <div align="center">
     <img src="./images/caracal.jpg" style="width: 450px;">
   <h1 style="border-bottom: none; margin-bottom: 5px;">Gilberto Bispo</h1>
-  <p style="font-size: 1.2em; color: #9E9E9E; margin-top: 0;">Estudante e entusiasta de Desenvolvimento Web</p>
+  <p style="font-size: 1.2em; color: #9E9E9E; margin-top: 0;">Web Development student and enthusiast</p>
   
   <br />
 
-  <img src="https://img.shields.io/badge/Status-Estudando_Full_Stack-blue?style=for-the-badge&logo=react" alt="Status: Estudando Full Stack" />
-  <img src="https://img.shields.io/badge/Foco-Projetos_Práticos-green?style=for-the-badge" alt="Foco: Projetos Práticos" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-darkblue?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" />
   
   <br /><br />
 </div>
 
 <hr style="border: 1px solid #2d333b; margin: 20px 0;" />
 
-<h2>🧠 Sobre mim</h2>
+<h2>🧠 About me</h2>
 
 <p>
-  Comecei no mundo da programação apenas como um hobby, estudando de forma autodidata, mas recentemente decidi ir além.
+  I started in web development just as a hobby, studying on my own, but recently I decided to take it further.
 </p>
 
 <p style="font-weight: 500;">
-  Hoje, estudo programação com foco em desenvolvimento full stack, sempre orientado à criação de projetos práticos, porque não existe forma melhor de realmente aprender além de colocar a mão na massa.
+  Today, I study development focusing on Next.js, TypeScript and TailwindCSS, always aiming to create hands-on projects, because there's no better way to truly learn than by getting your hands dirty.
 </p>
 
 <br />
 
-<h2>💻 Tecnologias que estou utilizando</h2>
+<h2>💻 Technologies that I'm using</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="./images/javascript-original.svg" style="width: 50px;">
-  <img src="./images/nodejs-original.svg" style="width: 50px;">
-  <img src="./images/express-original.svg" style="width: 50px;">
-  <img src="./images/postgresql-original.svg" style="width: 50px;">
-  <img src="./images/html5-original.svg" style="width: 50px;">
-  <img src="./images/css3-original.svg" style="width: 50px;">
-  <img src="./images/react-original.svg" style="width: 50px;">
+  <img src="./images/nextjs-plain.svg" style="width: 50px;">
+  <img src="./images/typescript-plain.svg" style="width: 50px;">
   <img src="./images/tailwindcss-original.svg" style="width: 50px;">
 </div>
 
 <br />
 
-<h2>🛠️ O que ando desenvolvendo</h2>
+<h2>🎯 Goals</h2>
 
-<details open>
-  <summary style="font-size: 1.3em; font-weight: bold; cursor: pointer; margin-bottom: 10px;">
-    📝 To-Do List (Full Stack)
-  </summary>
-  
-  <p style="margin-left: 15px;">
-    Acho que esse é o tipo de projeto considerado como o "Hello World" do desenvolvimento full stack. Este é o meu primeiro desafio real, e devo dizer que está sendo uma experiência enriquecedora desenvolvê-lo.
-  </p>
-
-  <h4 style="margin-left: 15px;">🚀 Funcionalidades</h4>
-  <ul style="margin-left: 35px;">
-    <li>Criar, editar, visualizar e deletar tarefas (CRUD completo)</li>
-    <li>Persistência de informações com banco de dados em PostgreSQL</li>
-    <li>Interface com interações dinâmicas (como menus expansíveis e animações)</li>
-    <li>Responsividade (para usar no PC e no celular)</li>
-  </ul>
-
-  <h4 style="margin-left: 15px; color: #9E9E9E;">💡 Futuras features</h4>
-  <ul style="margin-left: 35px; color: #9E9E9E;">
-    <li>Filtro para tarefas concluídas e não concluídas (em progresso)</li>
-    <li>Sistema de registro e login de usuários completo e seguro</li>
-    <li>Melhorias constantes no design</li>
-  </ul>
-</details>
-
-<br />
-
-<h2>🎯 Objetivos</h2>
-
-<p>Meus objetivos de agora em diante envolvem:</p>
+<p>
+  My goals from now on are:
+</p>
 
 <ul>
   <li>
-    Criar projetos cada vez mais complexos e profissionais, me permitindo aprender enquanto os construo (aprendendo também sobre boas práticas 😉), evoluindo cada vez mais como desenvolvedor full stack.
+    Create increasingly complex and professional projects, allowing me to learn as I build (while focusing on best practices 😉), and continuously evolve as a developer.
   </li>
   <li>
-    Conquistar minha primeira oportunidade profissional, de modo a aplicar o que aprendo e a me habituar com rotinas profissionais na área de desenvolvimento.
+    Take on professional remote opportunities and deliver high-impact web solutions.
   </li>
 </ul>
 
@@ -87,7 +56,7 @@
 <hr style="border: 1px solid #2d333b; margin: 20px 0;" />
 
 <div align="center">
-  <p>Vamos nos conectar?</p>
+  <p>Let's connect ?</p>
   <a href="https://www.linkedin.com/in/gilberto-bispo-011693249/" target="_blank" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
