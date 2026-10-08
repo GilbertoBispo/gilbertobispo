@@ -29,7 +29,7 @@
 <h2>💻 Technologies that I'm using</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="./images/nextjs-plain.svg" style="width: 50px;">
+  <img src="./images/icons8-next.js-96.png" style="width: 50px;">
   <img src="./images/typescript-plain.svg" style="width: 50px;">
   <img src="./images/tailwindcss-original.svg" style="width: 50px;">
 </div>
