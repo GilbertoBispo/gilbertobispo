@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="./images/caracal.jpg" style="width: 450px;">
+    
   <h1 style="border-bottom: none; margin-bottom: 5px;">Gilberto Bispo</h1>
-  <p style="font-size: 1.2em; color: #9E9E9E; margin-top: 0;">Web Development student and enthusiast</p>
+  <p style="font-size: 1.2em; color: #9E9E9E; margin-top: 0;">Frontend Web Developer</p>
   
   <br />
 
@@ -17,21 +17,26 @@
 <h2>🧠 About me</h2>
 
 <p>
-  I started in web development just as a hobby, studying on my own, but recently I decided to take it further.
+  What started as self-taught curiosity in web development quickly evolved into a dedicated focus on modern frontend engineering and UI craft.
 </p>
 
 <p style="font-weight: 500;">
-  Today, I study development focusing on Next.js, TypeScript and TailwindCSS, always aiming to create hands-on projects, because there's no better way to truly learn than by getting your hands dirty.
+  Working primarily with <strong>Next.js, TypeScript, and Tailwind CSS</strong>, I focus on writing maintainable code and building interactive UI components that elevate user engagement.
 </p>
 
 <br />
 
-<h2>💻 Technologies that I'm using</h2>
+<h2>💻 Tech Stack</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   <img src="./images/icons8-next.js-96.png" style="width: 50px;">
   <img src="./images/typescript-plain.svg" style="width: 50px;">
   <img src="./images/tailwindcss-original.svg" style="width: 50px;">
+  <img src="./images/javascript-original.svg" style="width: 50px;">
+  <img src="./images/html5-original.svg" style="width: 50px;">
+  <img src="./images/css3-original.svg" style="width: 50px;">
+  <img src="./images/git-original.svg" style="width: 50px;">
+  <img src="./images/github_logo.webp" style="width: 50px;">
 </div>
 
 <br />
