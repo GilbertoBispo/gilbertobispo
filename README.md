@@ -1,18 +1,11 @@
 <div align="center">
-    
   <h1 style="border-bottom: none; margin-bottom: 5px;">Gilberto Bispo</h1>
   <p style="font-size: 1.2em; color: #9E9E9E; margin-top: 0;">Frontend Web Developer</p>
   
-  <br />
-
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-darkblue?style=for-the-badge&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS" />
-  
-  <br /><br />
 </div>
-
-<hr style="border: 1px solid #2d333b; margin: 20px 0;" />
 
 <h2>🧠 About me</h2>
 
